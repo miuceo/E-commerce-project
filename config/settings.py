@@ -138,7 +138,7 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
-STATIC_ROOT = "/var/www/ecommerce/staticfiles
+STATIC_ROOT = "/var/www/ecommerce/staticfiles"
 
 STATICFILES_DIRS = [
     BASE_DIR / 'static',
